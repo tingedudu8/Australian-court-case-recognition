@@ -10,6 +10,6 @@
 
 
 ## Accuracy Test
-![](/images/Accuracy)
+![这是图片](/images/Accuracy.png)
 
 
